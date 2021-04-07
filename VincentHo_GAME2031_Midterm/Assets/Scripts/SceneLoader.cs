@@ -7,17 +7,16 @@ public class SceneLoader : MonoBehaviour
 {
     public void LoadNextScene()
     {
-
-    }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+        SceneManager.LoadScene("GameOverScene");
     }
 
-    // Update is called once per frame
-    void Update()
+    public void LoadGameScene()
     {
-        
+        SceneManager.LoadScene(0);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        LoadNextScene();
     }
 }

@@ -8,7 +8,6 @@ public class PlayerMovement : MonoBehaviour
     private Transform spawnPoint;
 
     private Rigidbody2D m_rb;
-
     private SpriteRenderer spriteRenderer;
     private Animator animator;
 
