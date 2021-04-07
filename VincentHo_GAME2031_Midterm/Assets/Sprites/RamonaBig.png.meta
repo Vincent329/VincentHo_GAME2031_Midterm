@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 2bc0f27803d99974983342b18b55a8f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6706387248428499427
+    second: RamonaBig_0
+  - first:
+      213: -7359064036027812931
+    second: RamonaBig_1
+  - first:
+      213: -8155661941523774651
+    second: RamonaBig_2
+  - first:
+      213: -3067470151327523614
+    second: RamonaBig_3
+  - first:
+      213: -8356464130269838276
+    second: RamonaBig_4
+  - first:
+      213: -377305276692624006
+    second: RamonaBig_5
+  - first:
+      213: -3043197636468726775
+    second: RamonaBig_6
+  - first:
+      213: 8701078685384683870
+    second: RamonaBig_7
+  - first:
+      213: -3199375685589637279
+    second: RamonaBig_8
+  - first:
+      213: 229799924503119163
+    second: RamonaBig_9
+  - first:
+      213: -1614625280422222086
+    second: RamonaBig_10
+  - first:
+      213: -6812449541044252706
+    second: RamonaBig_11
+  - first:
+      213: -8670485106425252650
+    second: RamonaBig_12
+  - first:
+      213: -9092086309856071564
+    second: RamonaBig_13
+  - first:
+      213: 6761065535510884974
+    second: RamonaBig_14
+  - first:
+      213: 4507351039159971858
+    second: RamonaBig_15
+  - first:
+      213: -1944333281053364539
+    second: RamonaBig_16
+  - first:
+      213: -3336413716149635809
+    second: RamonaBig_17
+  - first:
+      213: -9116396023681646471
+    second: RamonaBig_18
+  - first:
+      213: 8296709165308576878
+    second: RamonaBig_19
+  - first:
+      213: 2782730192565171428
+    second: RamonaBig_20
+  - first:
+      213: 3799430992755318101
+    second: RamonaBig_21
+  - first:
+      213: -4310346881289789862
+    second: RamonaBig_22
+  - first:
+      213: -525239281138279390
+    second: RamonaBig_23
+  - first:
+      213: -8592201487621221189
+    second: RamonaBig_24
+  - first:
+      213: 9166541191013553184
+    second: RamonaBig_25
+  - first:
+      213: -5673337659895460382
+    second: RamonaBig_26
+  - first:
+      213: 2026553479709044049
+    second: RamonaBig_27
+  - first:
+      213: 4024237121383045118
+    second: RamonaBig_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RamonaBig_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 591
+        width: 81
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eb53b54502ee2a0800000000000000
+      internalID: -6706387248428499427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 591
+        width: 81
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b53dcf3a5fd990800000000000000
+      internalID: -7359064036027812931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 591
+        width: 78
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5438d4bbca441de80800000000000000
+      internalID: -8155661941523774651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 591
+        width: 81
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec520746282e65d0800000000000000
+      internalID: -3067470151327523614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 591
+        width: 84
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3409f0e520e70c80800000000000000
+      internalID: -8356464130269838276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 591
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d0bd299da83caf0800000000000000
+      internalID: -377305276692624006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 404
+        width: 76
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90429f88fd364c5d0800000000000000
+      internalID: -3043197636468726775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 404
+        width: 81
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51b31dc6f070c870800000000000000
+      internalID: 8701078685384683870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 399
+        width: 89
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676865d3c88993d0800000000000000
+      internalID: -3199375685589637279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 399
+        width: 84
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b358b6550d9603300800000000000000
+      internalID: 229799924503119163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 399
+        width: 79
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af66113bcd2b799e0800000000000000
+      internalID: -1614625280422222086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 399
+        width: 88
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfc8cf7c315571a0800000000000000
+      internalID: -6812449541044252706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 109
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d43531ebbf3ca780800000000000000
+      internalID: -8670485106425252650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 212
+        width: 97
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47036d15cab62d180800000000000000
+      internalID: -9092086309856071564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 217
+        width: 109
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62334b684124dd50800000000000000
+      internalID: 6761065535510884974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 225
+        width: 118
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2103e1f93e35d8e30800000000000000
+      internalID: 4507351039159971858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 233
+        width: 120
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce28d1be275405e0800000000000000
+      internalID: -1944333281053364539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_17
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 227
+        width: 122
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f829f66da2b1d0800000000000000
+      internalID: -3336413716149635809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 214
+        width: 125
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9700ca00e1e0c7180800000000000000
+      internalID: -9116396023681646471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_19
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 199
+        width: 120
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6402fa2705d32370800000000000000
+      internalID: 8296709165308576878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_20
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 180
+        width: 111
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4f999dd5e3e9620800000000000000
+      internalID: 2782730192565171428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5acf8b5a4ab430800000000000000
+      internalID: 3799430992755318101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 112
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e520249529e24c0800000000000000
+      internalID: -4310346881289789862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 17
+        width: 125
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cdba918a9f5b8f0800000000000000
+      internalID: -525239281138279390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 6
+        width: 121
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb411cb354e52c880800000000000000
+      internalID: -8592201487621221189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_25
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 4
+        width: 123
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024595595a8163f70800000000000000
+      internalID: 9166541191013553184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_26
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4
+        width: 107
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc51bf4714441b0800000000000000
+      internalID: -5673337659895460382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_27
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 17
+        width: 123
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15da36417a3cf1c10800000000000000
+      internalID: 2026553479709044049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RamonaBig_28
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 6
+        width: 118
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef71aff2756f8d730800000000000000
+      internalID: 4024237121383045118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
